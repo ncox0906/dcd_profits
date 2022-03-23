@@ -122,9 +122,9 @@ I fed it the information about the stores, and it would give me those prediction
 
 
 # Deliverables
-I have created an Excel workbook with multiple sheets. Each sheet is for a product. On each sheet, I have the information from my predictions. The stores are ordered from best to worst stores to target for distribution of a product.
+I have created an [Excel workbook](https://github.com/ncox707/dcd_profits/blob/main/data/final_recommendations.xlsx) with multiple sheets. Each sheet is for a product. On each sheet, I have the information from my predictions. The stores are ordered from best to worst stores to target for distribution of a product.
 
-I have also created a Tableau Dashboard for the company to allow them to further explore the data themselves.
+I have also created a [Tableau Dashboard](https://public.tableau.com/app/profile/nate.cox/viz/capstone_16462495100400/Dashboard2#1) for the company to allow them to further explore the data themselves.
 
 
 # Recommendations
