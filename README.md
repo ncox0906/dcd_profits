@@ -1,3 +1,11 @@
+# No More Cookies in the Cookie Jar
+
+A business was having supply issues with one of its product lines. This lack of supply was causing profits to decrease. I looked into other parts of the business and used RFM and K-means clustering to identify areas where more profits could be generated. I presented a list of products and stores to target to the business. I also created a Tableau Dashboard to allow the businiess owners to explore more of the data on their own. I found my recommendations would generate a 2.2% increase in profits.
+
+**[Tableau Dashboard](https://public.tableau.com/app/profile/nate.cox/viz/DCDProfits/ProductSales)** to explore the data.
+
+<br>
+
 # Problem Statement
 The Pepperidge Farm franchise has been having supply issues. Less product to distribute has caused the profits of Dale Cox Distributing to decrease.
 
@@ -5,7 +13,7 @@ How can these lost profits be recovered?
 
 <br>
 
-<img src='images/pf_profits.png'>
+<img src='images/pf_profits_readme.png'>
 
 *After a slight increase in gross profits during the start of COVID, profits have steadily decreased.*
 
@@ -124,7 +132,7 @@ I fed it the information about the stores, and it would give me those prediction
 # Deliverables
 I have created an [Excel workbook](https://github.com/ncox707/dcd_profits/blob/main/data/final_recommendations.xlsx) with multiple sheets. Each sheet is for a product. On each sheet, I have the information from my predictions. The stores are ordered from best to worst stores to target for distribution of a product.
 
-I have also created a [Tableau Dashboard](https://public.tableau.com/app/profile/nate.cox/viz/capstone_16462495100400/Dashboard2#1) for the company to allow them to further explore the data themselves.
+I have also created a [Tableau Dashboard](https://public.tableau.com/app/profile/nate.cox/viz/DCDProfits/ProductSales) for the company to allow them to further explore the data themselves.
 
 
 # Recommendations
